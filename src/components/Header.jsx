@@ -21,7 +21,7 @@ export default function Header() {
                 <div className=" flex flex-wrap mx-auto justify-between items-center max-w-screen-lg lg:flex-row px-4">
                     <div>
                     <Link to="/" className="flex items-center">
-                        <h1 className="flex items-center text-green-500 text-2xl tracking-wider"><CgNametag />Portfolio</h1>
+                        <h1 className="flex items-center text-green-500 text-2xl tracking-tighter"><CgNametag />Atul Singhal</h1>
                     </Link>
                     </div>
                     <div className='space-x-2'>
